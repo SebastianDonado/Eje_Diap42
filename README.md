@@ -1,6 +1,6 @@
 # Ejercicios diapositivas
 
-Yo trabaje esto ejercicios todos en un solo archivo en el cual accedemos a cada ejercicio mediante una estructura de if que funciona como un menu. Como se muestra en la siguiente imagen:
+Yo trabaje en esto ejercicios de una manera conjunta donde se encuentren todos en el mismo archivo en el cual accedemos a cada ejercicio mediante una estructura de if que funciona como un menu. Como se muestra en la siguiente imagen:
 
 ![imagen uno](https://github.com/user-attachments/assets/2fd17e81-8394-47f2-893c-e21c5379ab55)
 
