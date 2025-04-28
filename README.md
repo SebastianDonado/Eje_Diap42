@@ -88,6 +88,40 @@ Para asegurarnos que funciona te enseñare todos los posibles casos:
 
 ![caso 3](https://github.com/user-attachments/assets/4b376012-8a01-46fb-9633-51788e9f7353)
 
+## Ejercicio 6
+
+"Si pido prestados P cantidad de pesos para pagarlos en dos meses, si el inter ́es del préstamo es del 3%. ¿Cu ́anto se debe pagar al final del segundo mes si el inter ́es es compuesto mensualmente?".
+
+Para este ejercicio utilizo una función con dos variables una que es el dinero que pedí prestado y la segunda es para saber la cantidad de meses que tuve el dinero y me cobraron intereses (yo quise un poco más alla por esta razón le agregue esto).
+
+![codigo eje6](https://github.com/user-attachments/assets/f4a857c8-a2de-44fd-b782-8f2bd277925b)
+
+Comprobamos con la ejecución:
+
+![ejemplo seis](https://github.com/user-attachments/assets/9cbefc82-d02f-42e4-ba69-893b131ca14c)
+
+## Ejercicio 7
+"El número de contagiados de Covid-19 en el país de NuncaLandia se duplica cada día. Hacer un programa que diga el número total de personas que se han contagiado cuando pasen D días a partir de hoy, si el número de contagiados actuales es C".
+
+Para este ejercicio lo único nuevo que agregamos que no hallamos visto a lo largo de los ejercicios es la condición while que funciona como un ciclo el cual utilizamos para hacer la operación de la potenciación al cuadrado de los casos diarios, lo entenderemos mejor viendo e código:
+
+![codigo eje7](https://github.com/user-attachments/assets/1810d5f7-5967-469b-97fd-acfd3a3a3ff6)
+
+Comprobamos con a ejecución:
+
+![ejemplo siete](https://github.com/user-attachments/assets/07872c6a-01b5-49ec-b86e-de8ab52a723e)
+
+## Dato importante
+
+Como mencione al inicio si al inicio en el menu introduzco un número distinto a conjunto 1-7 me arrojara la siguiente respuesta:
+
+![ultima](https://github.com/user-attachments/assets/343601fb-4af0-47b0-b772-103fd8a26251)
+
+### Bibliografia de los ejercicios:
+
+Gómez Perdomo, J., Rodríguez, A., Cubides, C., & Sierra, C. A. (n.d.). Funciones de uno o varios parámetros. Universidad Nacional de Colombia.
+
+
 
 
   
